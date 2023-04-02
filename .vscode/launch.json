@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/wagyu/CU/CP/YEAR2-2/ALGO/week2",
+      "program": "/Users/wagyu/CU/CP/YEAR2-2/ALGO/week2/build/Debug/outDebug"
+    }
+  ]
+}
